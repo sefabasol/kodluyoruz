@@ -1,0 +1,54 @@
+
+.container {
+    width: 1000px;
+    margin: 0 auto 0;
+
+}
+.card {
+    width: 100%;
+    background-color: rgb(227, 233, 233);
+}
+
+.motor {
+    width: 30%;
+}
+.box1 {
+    margin-top: 2px;
+    width: 315px;
+    height: 70px;
+    margin-left: 212px;
+    margin-right: 2px;
+    padding: 1%;
+background-color: rgb(100, 226, 226);
+float: left;
+}
+.box2 {
+    margin-right: 2px;
+    margin-top: 2px;
+    width: 200px;
+    height: 70px;
+    padding: 1%;
+background-color: rgb(71, 181, 181);
+float: left;
+}
+.box3 {
+    margin-top: 2px;
+    width: 396px;
+    height: 70px;
+    padding: 1%;
+    float: left;
+    background-color: rgb(23, 150, 150);
+}
+.box4 {
+    margin-left: auto;
+    float: right;
+    width: 1000px;
+    margin-top: 20px;
+    }
+
+
+
+
+
+
+

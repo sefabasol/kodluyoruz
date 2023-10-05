@@ -1,0 +1,33 @@
+body {
+   background-color:white;
+   color: white;
+   font-family: 'Times New Roman', Times, serif; 
+}
+h2 {
+    color:rgb(28, 28, 26);
+
+}
+h3 {
+    font: size 14px;
+    color: rgb(15, 15, 15);
+
+}
+ul {
+    color: rgb(129, 81, 81);
+}
+p {
+
+}
+a {
+    color: black;
+}
+h1 {
+color: rgb(47, 47, 153);
+
+}
+.paragraf {
+text-align: center;
+}
+#yazi {
+    text-align: center;
+}
